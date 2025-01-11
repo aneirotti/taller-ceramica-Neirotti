@@ -1,4 +1,5 @@
 CREATE SCHEMA Taller_ceramica_Neirotti;
+
 USE Taller_Ceramica_Neirotti;
 
 CREATE TABLE artistas (

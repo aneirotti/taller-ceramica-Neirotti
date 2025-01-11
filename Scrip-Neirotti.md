@@ -2,6 +2,8 @@ CREATE SCHEMA Taller_ceramica_Neirotti;
 
 USE Taller_Ceramica_Neirotti;
 
+
+
 CREATE TABLE artistas (
     id_artista INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(100) NOT NULL,
